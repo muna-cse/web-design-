@@ -1,0 +1,148 @@
+
+
+#menu{
+                width:100%;
+                height:50px;
+                left:0px;
+                right:0px;
+
+                top: 0px;
+                position: absolute;
+                background-color:antiquewhite;
+                color: black;
+                 border:black solid 2px;
+                text-align: center;
+            
+            
+            } 
+#image{
+        width:100%;
+         height:180px;
+    left:0px;
+    right:0px;
+    top:50px;
+    position: absolute;
+     border:black solid 2px;
+    
+}
+#sbarleft{
+    
+                width:40%;
+                height:248px;
+                left:0px;
+                top: 230px;
+                position: absolute;
+                background-color:cornsilk;
+                color:black;
+                border:black solid 2px;
+                 text-align: center;
+                 font-family:cursive;
+}
+
+#sbarright{
+    
+                width:60%;
+                height:248px;
+                right:0px;
+                top: 230px;
+                position: absolute;
+                background-color:pink;
+                color:black;
+                 border:black solid 2px;
+                 text-align: center;
+                 font-family:cursive;
+                 
+                 
+}
+#topleft{
+    
+               width:50%;
+                height:124px;
+                left:0px;
+                top: 0px;
+                position: absolute;
+                background-color:palegreen ;
+                color:black;
+                border:black solid 2px;
+               
+}
+       
+#topright{
+    
+               width:50%;
+                height:124px;
+                right:0px;
+                top: 0px;
+                position: absolute;
+                background-color:peachpuff;
+                color:black;
+    
+                border:black  solid 2px;
+}
+
+#downleft{
+    
+               width:50%;
+                height:124px;
+                left:0px;
+                top: 124px;
+                position: absolute;
+                background-color:paleturquoise;
+                color:black;
+                border:black solid 2px;
+}
+#downright{
+    
+               width:50%;
+                height:124px;
+                right:0px;
+                top: 124px;
+                position: absolute;
+                background-color:coral;
+                color:black;
+    
+                border:black solid 2px;
+}
+#footer{
+    
+                width:100%;
+                height:100px;
+                left:0px;
+              
+
+                top: 478px;
+                position: absolute;
+                background-color:burlywood;
+                color: black;
+                 border: black solid 2px;
+}
+#copyright{
+                  width:46%;
+                 height:100px;
+                left:0px;
+              
+
+                top: 0px;
+                position: absolute;
+                background-color:plum;
+                color: black;
+                 border: black solid 1px;
+                 text-align: center;
+}
+            
+#icon{
+                  width:54%;
+                 height:100px;
+                right:0px;
+              
+
+                top: 0px;
+                position: absolute;
+                background-color:peachpuff;
+                color: black;
+                 border: black solid 1px;
+                  text-align: center;
+}
+#icon img{
+    border-radius: 50%;
+       
