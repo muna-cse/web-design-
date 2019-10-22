@@ -9,3 +9,7 @@ body{
     color: black;
   
 }
+ footer {
+      background-color: green;
+      padding: 25px;
+    }
